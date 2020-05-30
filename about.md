@@ -12,7 +12,7 @@ In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Je
 There are currently two themes built on Poole:
 
 * [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+* [Lanyon](https://sids-agravat.github.io/lanyon)
 
 Learn more and contribute on [GitHub](https://github.com/poole).
 
